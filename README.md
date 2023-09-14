@@ -1,4 +1,4 @@
-# **Repository by Y.A.Golikov**
+# ***Repository by Y.A.Golikov***
 _
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YurijGolikov99&theme=darcula)
 
