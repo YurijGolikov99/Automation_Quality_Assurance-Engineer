@@ -42,13 +42,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YurijGolikov99&theme=darcula)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/YurijGolikov99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="INSTA" height="30" width="50" /></a>
-<a href="https://vk.com/yurij.golikov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="50" /></a>
-<a href="https://www.linkedin.com/in/yurij-golikov-03d09d1999y/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="50" /></a>
-<a href="https://instagram.com/yurchik99golikov?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="50" /></a>
-</p>
+<h3 align="center">Connect with me:
+    <p align="center">
+        <a href="https://twitter.com/YurijGolikov99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="50" /></a>
+        <a href="https://vk.com/yurij.golikov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="Vkontakte" height="30" width="50" /></a>
+        <a href="https://www.linkedin.com/in/yurij-golikov-03d09d1999y/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="50" /></a>
+        <a href="https://instagram.com/yurchik99golikov?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="50" /></a>
+    </p>
+</h3>
 
 
 [andersen]:https://andersenlab.com/?ysclid=lmj6i2gjql203638706
