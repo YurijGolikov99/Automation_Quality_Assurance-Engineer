@@ -18,6 +18,7 @@
 <img align="left" alt="MySQL" width="50px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
 <img align="left" alt="DBeaver" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" />
 <img align="left" alt="Figma" width="50px" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" />
+
 <img align="left" alt="Git" width="50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
 <img align="left" alt="GitLab" width="50px" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" />
 <img align="left" alt="GitHub" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/d7f8a6e5-25ee-4099-a4c7-e7bcca45d599.png" />
@@ -28,7 +29,6 @@
 <img align="left" alt="Confluence" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/50dbfa51-1e0c-47dd-ad5c-2898460e6608.png" />
 
 <img align="left" alt="JAVA" width="50px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
-
 <img align="left" alt="Maven" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/763df810-24db-4ff8-88eb-1684ef2678bc.png" />
 <img align="left" alt="Selenium" width="50px" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" />
 <img align="left" alt="Selenide" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/6c5e511d-091b-437f-8bc4-edc3d791ce53" />
@@ -36,18 +36,22 @@
 <img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
 <img align="left" alt="CSS3" width="50px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Unreal Engine" width="50px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" />
 
+<img align="left" alt="Unreal Engine" width="50px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" />
+<img align="left" alt="Construct 3" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/dbc24438-bcf6-4c4d-bc32-f6b73461325f" />
+<img align="left" alt="JavaScript" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/f5898ff0-19a0-4f46-b61f-b03f1485c06a" />
+
+<br/>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YurijGolikov99&theme=darcula)
 
 <h3 align="center">Connect with me:
     <p align="center">
-        <a href="https://twitter.com/YurijGolikov99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="50" /></a>
-        <a href="https://vk.com/yurij.golikov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="Vkontakte" height="30" width="50" /></a>
-        <a href="https://www.linkedin.com/in/yurij-golikov-03d09d1999y/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="50" /></a>
-        <a href="https://instagram.com/yurchik99golikov?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="50" /></a>
+        <a href="https://vk.com/yurij.golikov" target="blank"><img align="center" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/d0cafc3e-8ab9-443b-a542-ed5ba1701e55" alt="Vkontakte" height="30" width="50" /></a>
+         <a href="https://instagram.com/yurchik99golikov?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/91c85c07-632e-4f45-ac26-82fde1c50fb2" alt="Instagram" height="30" width="50" /></a>
+        <a href="https://twitter.com/YurijGolikov99" target="blank"><img align="center" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/cfce8dd7-3e9b-41c9-a279-f31844b4fe31" alt="Twitter" height="30" width="50" /></a>
+        <a href="https://www.linkedin.com/in/yurij-golikov-03d09d1999y/" target="blank"><img align="center" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/0a260e1e-b822-44c7-bb63-018a45d96f04" alt="LinkedIn" height="30" width="50" /></a>
     </p>
 </h3>
 
