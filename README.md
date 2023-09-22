@@ -4,6 +4,7 @@
 
 ***Some information about me***
 - Обучался и работал в [лаболатории Andersen][andersen]
+- Проводил обучение детей разработке сайтов и игр на движках в онлайн школе [Skyeng][skyeng]
 - Работал в [Tinkoff][tinkoff] на финтех проекте
 - Постоянно совершенствуюсь в javа
 - Обучаюсь всему чему надо, и становлюсь лучшим
@@ -39,3 +40,4 @@
 
 [andersen]:https://andersenlab.com/?ysclid=lmj6i2gjql203638706
 [tinkoff]:https://www.tinkoff.ru
+[skyeng]:https://skysmart.ru/programmirovanie-dlya-detej
