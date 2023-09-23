@@ -1,4 +1,4 @@
-# Hi dear guests of my repository
+# Hi, dear guests of my repository 👋
 ## My name Yuri and i am a test automotion engineer(AQA)
 ### Here i upload pet projects that where made by my during my self-development and training
 
