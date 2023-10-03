@@ -3,11 +3,11 @@
 ### Here i upload pet projects that where made by my during my self-development and training
 
 ***Some information about me***
-- Обучался и работал в [Andersen lab][andersen]
-- Проводил обучение детей разработке сайтов и игр на движках в онлайн школе [Skyeng][skyeng]
-- Работал в [Tinkoff][tinkoff] на финтех проекте
-- Постоянно совершенствуюсь в javа
-- Обучаюсь всему чему надо, и становлюсь лучшим
+- Stadied and work in [Andersen lab][andersen]
+- Conducting training for children to develop website and games using engine engines in online [Skyeng][skyeng]
+- Worked in [Tinkoff][tinkoff] on fintech project
+- Сonstantly improving in javа language
+- Learning everything i need to know and become the best
 
 ## Tools that i have studied and use
 |IntelliJIDEACE|Postman|Swagger|Charles|Xcode|AndroidStudio|MySQLWorkbench|DBeaver|Figma|Git|GitLab|GitHub|AllureReports|AllureTestOPS|TestRail|AtlassianJira|Confluence|
