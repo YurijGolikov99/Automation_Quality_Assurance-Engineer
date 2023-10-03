@@ -7,7 +7,7 @@
 - Conducting training for children to develop website and games using engine engines in online [Skyeng][skyeng]
 - Worked in [Tinkoff][tinkoff] on fintech project
 - Сonstantly improving in javа language
-- Learning everything i need to know and become the best
+- Learning everything i need to know and become the best (this is my motto)
 
 ## Tools that i have studied and use
 |IntelliJIDEACE|Postman|Swagger|Charles|Xcode|AndroidStudio|MySQLWorkbench|DBeaver|Figma|Git|GitLab|GitHub|AllureReports|AllureTestOPS|TestRail|AtlassianJira|Confluence|
