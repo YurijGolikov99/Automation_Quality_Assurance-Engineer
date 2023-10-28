@@ -41,5 +41,5 @@
 </h3>
 
 [andersen]:https://andersenlab.com/?ysclid=lmj6i2gjql203638706
-[tinkoff]:https://www.tinkoff.ru
+[tinkoff]:https://www.tinkoff.ru 
 [skyeng]:https://skysmart.ru/programmirovanie-dlya-detej
