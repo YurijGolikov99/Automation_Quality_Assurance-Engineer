@@ -10,7 +10,6 @@
 - Learning everything i need to know and become the best (this is my motto)
 
 ## My kit of Tools and Technologies that i have studied and use in development and testing:
-
 ### Integrated Development Environment (IDE):
 |IntelliJIDEACE|AndroidStudio|Xcode|
 | :---: | :---: | :---: |
@@ -48,6 +47,7 @@
 | :---: | :---: |
 |<img align="centr" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />|<img align="centr" alt="Bash" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/f6264c6d-e25c-49bd-a9d5-822739e254a1" />|
 
+
 ## Tools that i tought to use in online school
 |Unreal Engine 4/5|Construct 3|JavaScript|
 | :---: | :---: | :---: |
@@ -84,6 +84,3 @@
 [Andersen]:https://andersenlab.com/?ysclid=lmj6i2gjql203638706
 [Skyeng]:https://skysmart.ru/programmirovanie-dlya-detej
 [Tinkoff]:https://www.tinkoff.ru 
-[]
-[]
-
