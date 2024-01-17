@@ -12,9 +12,9 @@
 ## My kit of Tools and Technologies that i have studied and use in development and testing
 
 ### 1.IDE
-||||
+|IntelliJIDEACE|AndroidStudio|Xcode|
 | :---: | :---: | :---: |
-||||
+|<img align="centr" alt="IntelliJ IDEA CE" width="50" height="50px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />|<img align="centr" alt="Android Studio" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" />|<img align="centr" alt="Xcode" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" />|
 ### 2.
 |||||||||||
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
