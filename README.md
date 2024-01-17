@@ -11,6 +11,11 @@
 
 ## My kit of Tools and Technologies that i have studied and use in development and testing
 
+## 1.IDE
+## 2.
+##
+
+
 ### Tools that i have studied and use
 |IntelliJIDEACE|Postman|Swagger|Charles|Fiddler|Xcode|AndroidStudio|MySQLWorkbench|DBeaver|Figma|VCSGit|GitLab|GitHub|AllureReports|AllureTestOPS|TestRail|AtlassianJira|Confluence|
 | :---: | :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
