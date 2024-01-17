@@ -11,30 +11,30 @@
 
 ## My kit of Tools and Technologies that i have studied and use in development and testing:
 
-### 1.Integrated Development Environment (IDE)
+### Integrated Development Environment (IDE):
 |IntelliJIDEACE|AndroidStudio|Xcode|
 | :---: | :---: | :---: |
 |<img align="centr" alt="IntelliJ IDEA CE" width="50" height="50px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />|<img align="centr" alt="Android Studio" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" />|<img align="centr" alt="Xcode" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" />|
-### 2.Testing and debugging
+### Testing & debugging:
 |Postman|Swagger|Charles|Fiddler|Selenium|Selenide|JUnit5|AllureReports|AllureTestOPS|TestRail|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |<img align="centr" alt="Postman" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />|<img align="centr" alt="Swagger" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" />|<img align="centr" alt="Charles" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/69b2fcd1-d6b7-45af-9196-5c97f8b2f338.png" />|<img align="centr" alt="Fiddler" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/ff806814-7c99-4625-ac55-b3638d1fa701" />|<img align="centr" alt="Selenium" width="50px" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" />|<img align="centr" alt="Selenide" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/6c5e511d-091b-437f-8bc4-edc3d791ce53" />|<img align="centr" alt="JUnit5" width="50px" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" />|<img align="centr" alt="AllureReports" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/f7638f73-36ea-426b-875b-ba7c3b76c587.png" />|<img align="centr" alt="AllureTestOPS" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/58754718-186a-447d-98f6-f8abf7d8e44e.png" />|<img align="centr" alt="TestRail" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/05bc4aa3-11d3-4938-aeb8-fc720b806391.png" />|
-### 3.Version control system and joint development
+### Version control system & joint development:
 |VCSGit|GitLab|GitHub
 | :---: | :---: | :---: |
 <img align="centr" alt="Git" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />|<img align="centr" alt="GitLab" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" />|<img align="centr" alt="GitHub" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/d7f8a6e5-25ee-4099-a4c7-e7bcca45d599.png" />|
-### 4.Database and tools for work with them
+### Database & tools for work with them:
 |MySQLWorkbench|DBeaver|Oracle|PostgreSQL|MySQL|
 | :---: | :---: | :---: | :---: | :---: |
 |<img align="centr" alt="MySQL Workbench" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/714401a5-34a6-4e57-b75e-1b66fff7635d.png" />|<img align="centr" alt="DBeaver" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" />|<img align="centr" alt="Oracle" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/73d65b2c-8781-4c16-9064-d6b9964d5206" />|<img align="centr" alt="PostgreSQL" width="50px"  src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/fdb7fc1e-b4f0-4b9c-9bb6-b983b71653c1" />|<img align="centr" alt="MySQL" width="50px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />|
-### 5.Control projects and documentations
+### Control projects & documentations:
 |AtlassianJira|Confluence|
 | :---: | :---: |
 |<img align="centr" alt="Jira" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" />|<img align="centr" alt="Confluence" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/50dbfa51-1e0c-47dd-ad5c-2898460e6608.png" />|
-### 6.
-|||
+### Programming languges, project building & testing
+|JAVA|Maven|
 | :---: | :---: |
-|||
+|<img align="centr" alt="JAVA" width="50px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />|<img align="centr" alt="Maven" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/763df810-24db-4ff8-88eb-1684ef2678bc.png" />|
 ### 7.
 |||
 | :---: | :---: |
@@ -47,10 +47,13 @@
 |||
 | :---: | :---: |
 |||
-### 10.Tools that i tought to use in online school
+
+## Tools that i tought to use in online school
 |Unreal Engine 4/5|Construct 3|JavaScript|
 | :---: | :---: | :---: |
 |<img align="centr" alt="Unreal Engine" width="50px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" />|<img align="centr" alt="Construct 3" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/dbc24438-bcf6-4c4d-bc32-f6b73461325f" />|<img align="centr" alt="JavaScript" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/f5898ff0-19a0-4f46-b61f-b03f1485c06a" />|
+
+
 
 ### Tools that i have studied and use
 |IntelliJIDEACE|Postman|Swagger|Charles|Fiddler|Xcode|AndroidStudio|MySQLWorkbench|DBeaver|Figma|VCSGit|GitLab|GitHub|AllureReports|AllureTestOPS|TestRail|AtlassianJira|Confluence|
