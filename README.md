@@ -47,8 +47,7 @@
 |||
 | :---: | :---: |
 |||
-### 10.
-### Tools that i tought to use in online school
+### 10.Tools that i tought to use in online school
 |Unreal Engine 4/5|Construct 3|JavaScript|
 | :---: | :---: | :---: |
 |<img align="centr" alt="Unreal Engine" width="50px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" />|<img align="centr" alt="Construct 3" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/dbc24438-bcf6-4c4d-bc32-f6b73461325f" />|<img align="centr" alt="JavaScript" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/f5898ff0-19a0-4f46-b61f-b03f1485c06a" />|
