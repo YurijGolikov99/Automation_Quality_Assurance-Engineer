@@ -15,10 +15,10 @@
 |IntelliJIDEACE|AndroidStudio|Xcode|
 | :---: | :---: | :---: |
 |<img align="centr" alt="IntelliJ IDEA CE" width="50" height="50px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />|<img align="centr" alt="Android Studio" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" />|<img align="centr" alt="Xcode" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" />|
-### 2.
-|||||||||||
+### 2.Testing and debugging
+|Postman|Swagger|Charles|Fiddler|Selenium|Selenide|JUnit5|AllureReports|AllureTestOPS|TestRail|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|||||||||||
+|<img align="centr" alt="Postman" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />|<img align="centr" alt="Swagger" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" />|<img align="centr" alt="Charles" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/69b2fcd1-d6b7-45af-9196-5c97f8b2f338.png" />|<img align="centr" alt="Fiddler" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/ff806814-7c99-4625-ac55-b3638d1fa701" />|||||||
 ### 3.
 ||||
 | :---: | :---: | :---: |
