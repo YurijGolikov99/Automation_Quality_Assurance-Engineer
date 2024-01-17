@@ -39,10 +39,10 @@
 |JavaScript|HTML5|CSS3|
 | :---: | :---: | :---: |
 |<img align="centr" alt="JavaScript" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/f5898ff0-19a0-4f46-b61f-b03f1485c06a" />|<img align="centr" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />|<img align="centr" alt="CSS3" width="50px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />|
-### 8.
-||
+### Graphic design and prototyping:
+|Figma|
 | :---: |
-||
+|<img align="centr" alt="Figma" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" />|
 ### 9.
 |||
 | :---: | :---: |
