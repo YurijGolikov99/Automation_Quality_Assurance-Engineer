@@ -43,7 +43,7 @@
 |Figma|
 | :---: |
 |<img align="centr" alt="Figma" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" />|
-### Command line
+### Command line:
 |Terminal| Bash |
 | :---: | :---: |
 |<img align="centr" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />|<img align="centr" alt="Bash" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/f6264c6d-e25c-49bd-a9d5-822739e254a1" />|
