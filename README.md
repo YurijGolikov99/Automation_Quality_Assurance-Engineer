@@ -81,6 +81,9 @@
     </p>
 </h3>
 
-[andersen]:https://andersenlab.com/?ysclid=lmj6i2gjql203638706
-[tinkoff]:https://www.tinkoff.ru 
-[skyeng]:https://skysmart.ru/programmirovanie-dlya-detej
+[Andersen]:https://andersenlab.com/?ysclid=lmj6i2gjql203638706
+[Skyeng]:https://skysmart.ru/programmirovanie-dlya-detej
+[Tinkoff]:https://www.tinkoff.ru 
+[]
+[]
+
