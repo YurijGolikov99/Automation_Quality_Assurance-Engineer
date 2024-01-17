@@ -9,7 +9,7 @@
 - Сonstantly improving in javа language
 - Learning everything i need to know and become the best (this is my motto)
 
-## My kit of Tools and Technologies that i have studied and use in development and testing
+## My kit of Tools and Technologies that i have studied and use in development and testing:
 
 ### 1.Integrated Development Environment (IDE)
 |IntelliJIDEACE|AndroidStudio|Xcode|
