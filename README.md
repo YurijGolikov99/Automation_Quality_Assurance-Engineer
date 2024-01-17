@@ -12,6 +12,8 @@
 ## My kit of Tools and Technologies that i have studied and use in development and testing
 
 ### 1.IDE
+| :---: | :---: | :---: |
+| | | |
 ### 2.
 ### 3.
 ### 4.
