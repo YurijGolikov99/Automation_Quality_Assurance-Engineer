@@ -35,10 +35,10 @@
 |JAVA|Maven|
 | :---: | :---: |
 |<img align="centr" alt="JAVA" width="50px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />|<img align="centr" alt="Maven" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/763df810-24db-4ff8-88eb-1684ef2678bc.png" />|
-### 7.
-|||
-| :---: | :---: |
-|||
+### Web-development
+|JavaScript|HTML5|CSS3|
+| :---: | :---: | :---: |
+|<img align="centr" alt="JavaScript" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/f5898ff0-19a0-4f46-b61f-b03f1485c06a" />|<img align="centr" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />|<img align="centr" alt="CSS3" width="50px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />|
 ### 8.
 ||
 | :---: |
