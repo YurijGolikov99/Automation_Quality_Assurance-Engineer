@@ -27,10 +27,10 @@
 |MySQLWorkbench|DBeaver|Oracle|PostgreSQL|MySQL|
 | :---: | :---: | :---: | :---: | :---: |
 |<img align="centr" alt="MySQL Workbench" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/714401a5-34a6-4e57-b75e-1b66fff7635d.png" />|<img align="centr" alt="DBeaver" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" />|<img align="centr" alt="Oracle" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/73d65b2c-8781-4c16-9064-d6b9964d5206" />|<img align="centr" alt="PostgreSQL" width="50px"  src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/fdb7fc1e-b4f0-4b9c-9bb6-b983b71653c1" />|<img align="centr" alt="MySQL" width="50px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />|
-### 5.
-|||
+### 5.Control projects and documentations
+|AtlassianJira|Confluence|
 | :---: | :---: |
-|||
+|<img align="centr" alt="Jira" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" />|<img align="centr" alt="Confluence" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/50dbfa51-1e0c-47dd-ad5c-2898460e6608.png" />|
 ### 6.
 |||
 | :---: | :---: |
