@@ -9,9 +9,9 @@
 - Learning everything i need to know and become the best (this is my motto)
 ## My kit of Tools and Technologies that i have studied and use in development and testing:
 ### Integrated Development Environment (IDE):
-|IntelliJIDEACE|AndroidStudio|Xcode|WebStorm|
-| :---: | :---: | :---: | :---: |
-|<img align="centr" alt="IntelliJ IDEA CE" width="50" height="50px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />|<img align="centr" alt="Android Studio" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" />|<img align="centr" alt="Xcode" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" />|<img align="centr" alt="WebStorm" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" />|
+|IntelliJIDEACE|AndroidStudio|Xcode|WebStorm|VisualStudio|
+| :---: | :---: | :---: | :---: | :---: |
+|<img align="centr" alt="IntelliJ IDEA CE" width="50" height="50px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />|<img align="centr" alt="Android Studio" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" />|<img align="centr" alt="Xcode" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" />|<img align="centr" alt="WebStorm" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" />|<img align="centr" alt="VisualStudio" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />|
 ### Testing & debugging:
 |Postman|Swagger|Charles|Fiddler|Selenium|Selenide|JUnit5|AllureReports|AllureTestOPS|TestRail|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -33,13 +33,13 @@
 | :---: | :---: |
 |<img align="centr" alt="JAVA" width="50px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />|<img align="centr" alt="Maven" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/763df810-24db-4ff8-88eb-1684ef2678bc.png" />|
 ### Web-development:
-|JavaScript|HTML5|CSS3|
-| :---: | :---: | :---: |
-|<img align="centr" alt="JavaScript" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/f5898ff0-19a0-4f46-b61f-b03f1485c06a" />|<img align="centr" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />|<img align="centr" alt="CSS3" width="50px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />|
+|JavaScript|HTML5|CSS3|TypeScript|Node.js|Angular|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|<img align="centr" alt="JavaScript" width="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/f5898ff0-19a0-4f46-b61f-b03f1485c06a" />|<img align="centr" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />|<img align="centr" alt="CSS3" width="50px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />|<img align="centr" alt="TypeScript" width="50px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />|<img align="centr" alt="Node.js" width="50px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" />|<img align="centr" alt="Angular" width="50px" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />|
 ### Graphic design & prototyping:
-|Figma|
-| :---: |
-|<img align="centr" alt="Figma" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" />|
+|Figma|Canva|
+| :---: | :---: |
+|<img align="centr" alt="Figma" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" />|<img align="centr" alt="Canva" width="50px" height="50px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" />|
 ### Command line:
 |Terminal| Bash |
 | :---: | :---: |
