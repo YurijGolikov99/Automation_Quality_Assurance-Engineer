@@ -9,9 +9,9 @@
 - Learning everything i need to know and become the best (this is my motto)
 ## My kit of Tools and Technologies that i have studied and use in development and testing:
 ### Integrated Development Environment (IDE):
-|IntelliJIDEACE|AndroidStudio|Xcode|WebStorm|VisualStudio|
-| :---: | :---: | :---: | :---: | :---: |
-|<img align="centr" alt="IntelliJ IDEA CE" width="50" height="50px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />|<img align="centr" alt="Android Studio" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" />|<img align="centr" alt="Xcode" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" />|<img align="centr" alt="WebStorm" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" />|<img align="centr" alt="VisualStudio" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />|
+|IntelliJIDEACE|AndroidStudio|Xcode|WebStorm|VisualStudio|PyCharmCE|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|<img align="centr" alt="IntelliJ IDEA CE" width="50" height="50px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />|<img align="centr" alt="Android Studio" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" />|<img align="centr" alt="Xcode" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" />|<img align="centr" alt="WebStorm" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" />|<img align="centr" alt="VisualStudio" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />|<img align="centr" alt="PyCharm CE" width="50px" height="50px" src="https://github.com/YurijGolikov99/YurijGolikov99/assets/103201814/6a9e038a-5f3f-430b-b954-86d9522be0fe" />|
 ### Testing & debugging:
 |Postman|Swagger|Charles|Fiddler|Selenium|Selenide|JUnit5|AllureReports|AllureTestOPS|TestRail|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
