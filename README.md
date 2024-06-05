@@ -1,5 +1,5 @@
 # Hi, dear friends 👋
-## My name Yuri and i am a test automotion engineer(AQA)
+## My name Yuri and i am a test automotion engineer(AQA) in IntexSoft
 ### Here i upload pet-projects that where made by my during, my self-development and training
 ***Some information about me***
 - Stadied and work in [Andersen lab][andersen]
@@ -71,6 +71,7 @@
     </p>
 </h3>
 
+[IntexSoft]:https://intexsoft.com
 [Andersen]:https://andersenlab.com/?ysclid=lmj6i2gjql203638706
 [Skyeng]:https://skysmart.ru/programmirovanie-dlya-detej
 [Tinkoff]:https://www.tinkoff.ru 
