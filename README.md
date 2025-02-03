@@ -1,5 +1,5 @@
 # Hi, dear friends 👋
-## My name Yuri and i am a test automotion engineer(AQA) in [IntexSoft][IntexSoft.com]
+## My name Yuri and i am a test automation engineer(AQA) in [IntexSoft][IntexSoft.com]
 ### Here i upload pet-projects that where made by my during, my self-development and training
 ***Some information about me***
 - Stadied and work in [Andersen lab][andersen]
